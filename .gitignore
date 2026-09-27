@@ -1,0 +1,10 @@
+# Generated Java and test output
+/target/
+/out/
+*.class
+
+# Local editor settings
+/nbproject/private/
+/.idea/
+*.iml
+__pycache__/
